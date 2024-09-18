@@ -24,9 +24,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-A passionate  based in Copenhagen, Denmark
-
-I am an AI engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Copenhagen, Denmark.
+I am an passionate AI engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Copenhagen, Denmark.
 
 - :telescope: I’m working as a QA Engineer working in MedTech industry. 
 - :seedling: Plunge diving into GenAI.
